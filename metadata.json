@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "version": "0.3.0-alpha",
+    "category": "template",
+    "templateName": {
+      "en": "A Minimal and Frankly Pointless Template"
+    },
+    "defaultLanguage": "en",
+    "dateCreated": "2020-10-07T00:00:00+00:00"
+  }
+}
