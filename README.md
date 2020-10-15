@@ -1,5 +1,5 @@
-![CI](https://github.com/bible-technology/sb_minimalTemplate/workflows/CI/badge.svg?branch=master)
+![CI](https://github.com/bible-technology/sb_xScripture/workflows/CI/badge.svg?branch=master)
 
 
-# sb_minimalTemplate
-Minimal Scripture Burrito Template
+# sb_xScripture
+Test xScripture Scripture Burrito
