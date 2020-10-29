@@ -41,17 +41,14 @@
         "name": "x-scriptureFingerPainting",
         "foo": "baa"
       },
-      "canonType": ["ot", "nt"],
+      "canonType": ["ot"],
       "canonSpec": {
         "ot": {
-          "name": "western"
-        },
-        "nt": {
           "name": "western"
         }
       },
       "currentScope": {
-        "JHN": ["3:16"]
+        "GEN": ["2:7"]
       }
     }
   },
@@ -80,14 +77,14 @@
     }
   ],
   "ingredients": {
-    "myPainting.png": {
-      "mimeType": "image/png",
+    "ingredients/creation-of-adam.jpg": {
+      "mimeType": "image/jpeg",
       "checksum": {
-        "md5": "01234567012345670123456701234567"
+        "md5": "b920f278273c02613637b2bf6d206a58"
       },
-      "size": 1234,
+      "size": 18243,
       "scope": {
-        "JHN": ["3:16"]
+        "GEN": ["2:7"]
       }
     }
   }
