@@ -2,7 +2,7 @@
   "format": "scripture burrito",
   "meta": {
     "category": "source",
-    "version": "1.0.0-rc3",
+    "version": "1.0.0",
     "dateCreated": "2023-02-21T00:00:00+02:00",
     "generator": {
       "softwareName": "SB01Import",
